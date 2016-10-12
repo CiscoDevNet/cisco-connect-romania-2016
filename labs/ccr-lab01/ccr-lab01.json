@@ -1,0 +1,32 @@
+{
+  "labId": "ccr-lab01",
+  "title": "Cisco Connect Romania 2016 - DevNet Learning Lab",
+  "slug": "An introduction on how to create a Cisco DevNet Learning Lab",
+  "time": "45",
+  "tags": [
+    {"title": "Beginner"},
+    {"title": "Coding"}
+  ],
+  "byod": false,
+  "related": [
+    {
+      "labId": "git-intro",
+      "title": "Git 100: Basics of the git version control system"
+    },
+    {
+      "labId": "git-branching",
+      "title": "Git 101: Branching"
+    },
+    {
+      "labId": "git-servers",
+      "title": "Git 102: Using git with servers"
+    }
+  ],
+  "files": [
+    {"title": "1.md"}
+  ],
+  "authors": [
+  	{"name": "Ionut Baiceanu", "email": "ibaicean@cisco.com"}
+  ],
+  "active": true
+}
