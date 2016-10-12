@@ -5,25 +5,41 @@
   "time": "45",
   "tags": [
     {"title": "Beginner"},
-    {"title": "Coding"}
+    {"title": "Coding"},
+    {"title": "Spark"},
+    {"title": "APIC-EM"}
   ],
-  "byod": false,
+  "byod": true,
   "related": [
     {
-      "labId": "git-intro",
-      "title": "Git 100: Basics of the git version control system"
+      "labId": "collab-spark-auth",
+      "title": "Collaboration: Spark - App Registration and Authentication"
     },
     {
-      "labId": "git-branching",
-      "title": "Git 101: Branching"
+      "labId": "collab-spark-message",
+      "title": "Collaboration: Spark - Creating Rooms, Adding Participants and Posting Messages"
     },
     {
-      "labId": "git-servers",
-      "title": "Git 102: Using git with servers"
+      "labId": "collab-sparkwebhook",
+      "title": "Collaboration: Spark Webhooks"
+    },
+    {
+      "labId": "apic-em-basic",
+      "title": "APIC-EM APIs with Python - Basic Labs"
+    },
+    {
+      "labId": "apic-em-policy",
+      "title": "APIC-EM APIs with Python - Policy Labs"
+    },
+    {
+      "labId": "lab02-apic-em-applications-and-use-cases",
+      "title": "APIC-EM Applications and Use Cases"
     }
   ],
   "files": [
-    {"title": "1.md"}
+    {"title": "1.md"},
+    {"title": "2.md"},
+    {"title": "3.md"}
   ],
   "authors": [
   	{"name": "Ionut Baiceanu", "email": "ibaicean@cisco.com"}
